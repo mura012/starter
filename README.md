@@ -2,3 +2,4 @@
 - React
 - Next.js
 - tailwindcss
+- mantine
